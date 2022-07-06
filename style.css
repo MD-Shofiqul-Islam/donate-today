@@ -1,4 +1,143 @@
 body
 {
   font-family: 'Poppins', sans-serif;
+  margin: 0px;
+  font-weight: 700;
+  }
+section 
+  .text-item
+{
+  color: tomato;
+  text-align: center;
+  padding: 2%;
 }
+.heading-image
+{
+  background-attachment: flex;
+  background-image: url(image/donation2.jpg);
+  height: 450px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.button-link
+{
+  background-image: linear-gradient(red, orange);
+  text-decoration: none;
+  margin: 5%;
+  border-radius: 5px;
+}
+a:hover
+{
+  color: white;
+}
+.text-added
+{
+  text-align: center;
+  margin: 60px;
+}
+.box-shadow-color
+{ display: inline;
+  width: 40%;
+  margin: 5%;
+  padding: 20px;
+  border-radius: 5px;
+}
+#backbround-color
+{
+  color: red;
+  background-color: rgb(196, 127, 127);
+} 
+.donate-plan
+{
+  text-align: center;
+  margin: 10px;
+  padding: 20px;
+}
+.flexble
+{
+  display: flex;
+ 
+}
+.donate-plan1
+{
+  background-image: url(image/icon8.svg);
+  background-color: beige;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  box-shadow: 10px 10px 40px rgb(238, 171, 171);
+  width: 60%;
+  margin: 5%;
+  padding: 50px;
+  border-radius: 5px;
+}
+
+.donate-plan2
+{
+  background-image: url(/image/icon13.svg);
+  background-color: goldenrod;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  box-shadow: 10px 10px 40px rgb(238, 171, 171);
+  width: 60%;
+  margin: 5%;
+  padding: 50px;
+  border-radius: 5px;
+}
+.donate-plan3
+{
+  background-image: url(image/icon4.svg);
+  background-color: aquamarine;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  box-shadow: 10px 10px 40px rgb(238, 171, 171);
+  width: 60%;
+  margin: 5%;
+  padding: 50px;
+  border-radius: 5px;
+}
+.donation
+{
+  margin: 10% 5%;
+  padding: 5%;
+}
+.img
+{
+  width: 500px;
+  float: left;
+  padding: 5%;
+}
+.updates
+{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.form-part
+{
+  text-align: center;
+  background-color: aquamarine;
+  height: 200px;
+  width: 60%;
+  margin: 10% 20% ;
+
+}
+#form
+{
+  margin: 50px;
+}
+.icon i
+{
+  font-size: 40px;
+ padding: 30px;
+ margin-bottom: 30px;
+}
+.foter 
+{
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+
+
+
+
